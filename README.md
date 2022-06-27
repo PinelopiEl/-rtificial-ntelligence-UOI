@@ -1,1 +1,1 @@
-# -rtificial-ntelligence-UOI
+# Artificial-ntelligence-UOI
